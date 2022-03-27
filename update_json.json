@@ -1,7 +1,4 @@
-{
-  "friends": [
-    {
-      "handle": "Buggy Boy"
-    }
-    ]
-}
+{"update":[  
+    {"date":"03/27/2022","title":"Update Rolling Out","body":"There is currently an update rolling out which includes but is not limited to:\n- Bug fixes\n- A couple new features"}
+    ]  
+} 
