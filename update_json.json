@@ -2,7 +2,8 @@
     {"date":"03/27/2022","title":"Version 1.54 Released to the App Store","body":"There is currently an update rolling out to the App Store which includes but is not limited to:\n- Bug fixes\n- A couple new features"}
     ],
  "testflight":[  
-    {"date":"03/27/2022","title":"Version 1.55 Released to Testflight","body":"There is currently an update rolling out to TestFlight which includes but is not limited to:\n- Bug fixes\n- A couple new features"}
+    {"date":"03/27/2022","title":"Version 1.55 Released to Testflight","body":"There is currently an update rolling out to TestFlight which includes but is not limited to:\n- Bug fixes\n- A couple new features"},
+     {"date":"03/27/2022","title":"Version 1.56 Released to Testflight","body":"There is currently an update rolling out to TestFlight which includes:\n-Bug Fixes for App News\n-Support for more sections in App News\n-Redesigned Patch Notes"}
     ],
  "known issues":[  
     {"title":"There are currently no known issues"}
