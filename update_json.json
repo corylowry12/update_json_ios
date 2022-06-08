@@ -1,7 +1,12 @@
-{"update":[  
+{"update":[ 
+    {"date":"05/25/2022","title":"Version 1.58 Released to the App Store","body":"There is currently an update rolling out to the App Store which includes but is not limited to:\n- Bug fixes\n- A couple new features"},
     {"date":"03/27/2022","title":"Version 1.54 Released to the App Store","body":"There is currently an update rolling out to the App Store which includes but is not limited to:\n- Bug fixes\n- A couple new features"}
     ],
  "testflight":[  
+     {"date":"06/08/2022","title":"Version 1.60 Released to Testflight","body":"There is currently an update rolling out to TestFlight which includes:\n-Bug Fixes and minor improvements"},
+     {"date":"06/04/2022","title":"Version 1.59 Released to Testflight","body":"There is currently an update rolling out to TestFlight which includes:\n-Bug Fixes and minor improvements"},
+     {"date":"05/23/2022","title":"Version 1.58 Released to Testflight","body":"There is currently an update rolling out to TestFlight which includes:\n-Bug Fixes and minor improvements"},
+     {"date":"05/21/2022","title":"Version 1.57 Released to Testflight","body":"There is currently an update rolling out to TestFlight which includes:\n-Bug Fixes and minor improvements"},
       {"date":"03/27/2022","title":"Version 1.56 Released to Testflight","body":"There is currently an update rolling out to TestFlight which includes:\n-Bug Fixes for App News\n-Support for more sections in App News\n-Redesigned Patch Notes"},
     {"date":"03/27/2022","title":"Version 1.55 Released to Testflight","body":"There is currently an update rolling out to TestFlight which includes but is not limited to:\n- Bug fixes\n- A couple new features"}
     ],
@@ -9,6 +14,7 @@
     {"title":"There are currently no known issues"}
     ],
   "roadmap":[  
-    {"title":"There are currently no upcoming features"}
+    {"title":"Ability to add break time"},
+      {"title":"Ability to backup and restore hours"}
     ]
 } 
